@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Laravel and CodeIgniter 4**
 
-- 🌱 I’m currently learning **MERN STACK WEB DEV**
+- 🌱 I’m currently learning **LARAVEL VUE FULL STACK WEB DEV**
 
 - 👨‍💻 All of my projects are available at [https://www.nandysagar.in/](https://www.nandysagar.in/)
 
